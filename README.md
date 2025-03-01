@@ -1,2 +1,2 @@
 # DevOps
-DevOps Practice 
+DevOps Projects 
